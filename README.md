@@ -1,3 +1,4 @@
 # jokul-checkout
+PHP Native Versi 5.6 to Up
 
-Config Client ID and Jokul ID 
+Change Config Client ID and Secret Key in jokul_config to Testing 
